@@ -1,0 +1,9 @@
+# IDE
+.vscode
+
+# Node
+node_modules
+
+#Hashing
+..gpg
+.gpg
