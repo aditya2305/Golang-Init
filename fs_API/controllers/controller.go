@@ -7,7 +7,7 @@ import (
 	"log"
 	"net/http"
 
-	model "github.com/Sam44323/fs_API/models"
+	model "github.com/aditya2305/fs_API/models"
 	"github.com/gorilla/mux"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

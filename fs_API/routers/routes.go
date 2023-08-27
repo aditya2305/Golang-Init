@@ -1,7 +1,7 @@
 package routes
 
 import (
-	controller "github.com/Sam44323/fs_API/controllers"
+	controller "github.com/aditya2305/fs_API/controllers"
 	"github.com/gorilla/mux"
 )
 

@@ -1,4 +1,4 @@
-module github.com/Sam44323/modules
+module github.com/aditya2305/modules
 
 go 1.18
 

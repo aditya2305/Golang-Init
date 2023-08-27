@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	routes "github.com/Sam44323/fs_API/routers"
+	routes "github.com/aditya2305/fs_API/routers"
 )
 
 func main() {

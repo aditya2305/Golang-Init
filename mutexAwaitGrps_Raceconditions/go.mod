@@ -1,3 +1,3 @@
-module github.com/Sam44323/race_conditions
+module github.com/aditya2305/race_conditions
 
 go 1.18

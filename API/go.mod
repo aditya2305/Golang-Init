@@ -1,4 +1,4 @@
-module github.com/Sam44323/API
+module github.com/aditya2305/API
 
 go 1.18
 

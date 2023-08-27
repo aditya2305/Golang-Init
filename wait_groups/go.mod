@@ -1,3 +1,3 @@
-module github.com/Sam44323/wait_groups
+module github.com/aditya2305/wait_groups
 
 go 1.18

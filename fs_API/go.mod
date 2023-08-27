@@ -1,4 +1,4 @@
-module github.com/Sam44323/fs_API
+module github.com/aditya2305/fs_API
 
 go 1.18
 
